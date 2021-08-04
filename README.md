@@ -1,4 +1,4 @@
-# Drivable area segmentation
+# Drivable Area Segmentation
 
 The repository is used to train a drivable-area-segmentation model with deeplabv3+, and the trained model can inference with libtorch. The repository is based on [deeplabs](https://github.com/sunggukcha/deeplabs) and [Person_Segmentation](https://github.com/runrunrun1994/Person_Segmentation).
 
