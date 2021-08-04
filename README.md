@@ -10,7 +10,7 @@ Please prepare dataset under the **data** directory. You can download from link�
 python hand_seg.py 
 ```
 
-## Pretrained model
+## Pretrained Model
 Please download pretrained model under the **weights** directory. Link：https://pan.baidu.com/s/1l78GrdJ8FoghqfzGGw0Kng 
 password：vm33
 
